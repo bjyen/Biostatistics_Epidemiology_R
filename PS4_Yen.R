@@ -1,5 +1,5 @@
 getwd()
-setwd("F:/Dropbox/2016 Fall (Selective Sync Conflict)/Biostatistics/PS 4") 
+setwd("...") 
 library(foreign)
 
 library(memisc)
