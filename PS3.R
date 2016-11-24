@@ -1,8 +1,9 @@
+# Using tests for homoskedasticity, normality and parametric (t-tests) and non-parametric testing.
 # Biostatistics PS3a
 
 
 getwd()
-setwd('C:/Users/JJ/Documents')
+setwd('C:/Users/...')
 library(foreign)
 install.packages("memisc")
 
