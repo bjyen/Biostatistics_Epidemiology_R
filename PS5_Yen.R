@@ -2,7 +2,7 @@
 # This is for Linear and Logistic Regression
 # Expedition Objective: Demonstrate knowledge around calculating univariate and multivariate linear and logistic regression.
 getwd()
-setwd("F:/Dropbox/2016 Fall (Selective Sync Conflict)/Biostatistics/PS 5") 
+setwd("") 
 library(foreign)
 install.packages("installr")
 library(installr)
